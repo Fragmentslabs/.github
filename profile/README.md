@@ -80,10 +80,10 @@ Every contribution helps shape the future of Fragments.
 
 ## Links
 
-* Website: https://fragmentslab.com
-* Orbit: https://orbit.fragmentslab.com
+* Website: https://fragmentslabs.com
+* Orbit: https://orbit.fragmentslabs.com
 * Nodara: https://nodaraapp.com
-* Contact: mailto:contact@fragmentslab.com
+* Contact: mailto:contact@fragmentslabs.com
 
 ---
 
